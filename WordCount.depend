@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589795382 source:e:\code blocks\wordcount\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<string.h>
+
