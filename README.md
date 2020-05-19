@@ -1,2 +1,2 @@
 # WordCount
-Software Engineering course practice assignment I
+Software Engineering course practice I
